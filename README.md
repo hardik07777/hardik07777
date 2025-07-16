@@ -20,21 +20,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
 
-## 🚀 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
 
 ## 💬 Let's Connect
 📫 You can reach me at  
-- ✉️ [Your Email]  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- ✉️ [hardikgoel07@gmail.com]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hardik-goel-8ba42b244/)
 
 Always open to collaborate on exciting projects, learn together, or just have a chat!
 

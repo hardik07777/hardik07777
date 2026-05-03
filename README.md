@@ -2,7 +2,7 @@
 
 ###  Building real-time systems & scalable web apps
 
-I focus on **performance, clean architecture, and real-world systems** — not just projects that look good, but ones that actually *work under load*.
+I focus on **performance, clean architecture, and real-world systems** not just projects that look good, but ones that actually *work under load*.
 
 ---
 
@@ -50,13 +50,6 @@ A real-time collaborative whiteboard built with performance-first architecture.
 
 `MongoDB` `Redis` `Docker`
 
----
-
-##  GitHub Stats
-
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardik07777\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik07777\&layout=compact\&theme=github_dark\&hide_border=true)
 
 ---
 

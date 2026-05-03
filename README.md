@@ -64,4 +64,4 @@ A real-time collaborative whiteboard built with performance-first architecture.
 
 
 
- *“I don’t just build features — I build systems that handle real users.”*
+ *“I don’t just build features  I build systems that handle real users.”*

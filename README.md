@@ -1,42 +1,78 @@
-# 💫 Hi there! I'm Hardik 👋
+#  Hi, I'm Hardik
 
-🚀 I'm a **Software Developer** passionate about building scalable web applications and solving challenging problems.
+###  Building real-time systems & scalable web apps
 
-- 🔭 Currently diving deep into **Competitive Programming (CP)** and mastering **DSA in C++**.
-- 🌱 Exploring advanced concepts in **MERN stack**, **TypeScript**, **Next.js**, and **Tailwind CSS**.
-- 💡 I love to build side projects to learn new tech & push my limits.
+I focus on **performance, clean architecture, and real-world systems** — not just projects that look good, but ones that actually *work under load*.
 
 ---
 
-## 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+##  About Me
 
-
-
-## 💬 Let's Connect
-📫 You can reach me at  
-- ✉️ [hardikgoel07@gmail.com]  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hardik-goel-8ba42b244/)
-
-Always open to collaborate on exciting projects, learn together, or just have a chat!
+*  Full-stack developer (React + Node.js)
+*  Strong focus on **real-time systems & system design**
+*  Built and deployed apps used in collaborative environments
+*  Always optimizing for **speed, scalability, and UX**
 
 ---
 
-## 📝 Currently Working On
-- Practicing CP problems on platforms like Codeforces, LeetCode, AtCoder
-- Building projects with MERN + Next.js + Tailwind
-- Exploring advanced design patterns and optimization
+##  Featured Project
+
+###  CollabBoard
+
+ https://collab-board-murex.vercel.app/
+
+A real-time collaborative whiteboard built with performance-first architecture.
+
+**Key Highlights:**
+
+*  Real-time syncing using WebSockets
+*  Conflict handling for concurrent users
+*  Smooth UI/UX for collaborative drawing
+*  Deployed and production-ready
 
 ---
 
-⭐ **Thanks for visiting my profile!** If you like my work, feel free to ⭐ star some repos or follow me to stay updated.
+## 🛠 Tech Stack
 
+###  Core
+
+`JavaScript` `TypeScript` `C++`
+
+###  Frontend
+
+`React` `Next.js` `Tailwind CSS`
+
+###  Backend
+
+`Node.js` `Express` `WebSockets`
+
+###  Databases & Infra
+
+`MongoDB` `Redis` `Docker`
+
+---
+
+##  GitHub Stats
+
+![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardik07777\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik07777\&layout=compact\&theme=github_dark\&hide_border=true)
+
+---
+
+## Currently Working On
+
+* Scaling real-time systems for high concurrency
+* Improving system design fundamentals
+* Building production-grade backend systems
+
+---
+
+##  Let’s Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/hardikgoel07/
+* 🧑‍💻 GitHub: https://github.com/hardik07777
+
+---
+
+ *“I don’t just build features — I build systems that handle real users.”*

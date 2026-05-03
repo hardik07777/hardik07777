@@ -4,7 +4,6 @@
 
 I focus on **performance, clean architecture, and real-world systems** not just projects that look good, but ones that actually *work under load*.
 
----
 
 ##  About Me
 
@@ -13,7 +12,6 @@ I focus on **performance, clean architecture, and real-world systems** not just 
 *  Built and deployed apps used in collaborative environments
 *  Always optimizing for **speed, scalability, and UX**
 
----
 
 ##  Featured Project
 
@@ -30,9 +28,9 @@ A real-time collaborative whiteboard built with performance-first architecture.
 *  Smooth UI/UX for collaborative drawing
 *  Deployed and production-ready
 
----
 
-## 🛠 Tech Stack
+
+##  Tech Stack
 
 ###  Core
 
@@ -51,7 +49,6 @@ A real-time collaborative whiteboard built with performance-first architecture.
 `MongoDB` `Redis` `Docker`
 
 
----
 
 ## Currently Working On
 
@@ -59,13 +56,12 @@ A real-time collaborative whiteboard built with performance-first architecture.
 * Improving system design fundamentals
 * Building production-grade backend systems
 
----
 
 ##  Let’s Connect
 
-* 💼 LinkedIn: https://www.linkedin.com/in/hardikgoel07/
-* 🧑‍💻 GitHub: https://github.com/hardik07777
+*  LinkedIn: https://www.linkedin.com/in/hardikgoel07/
+*  GitHub: https://github.com/hardik07777
 
----
+
 
  *“I don’t just build features — I build systems that handle real users.”*
